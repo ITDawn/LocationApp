@@ -1,8 +1,8 @@
 # LocationApp
 
- // тестовое задание 
- 
-Приложение для определение геолокации и добавления меток на карте и возможность просмотра сохраненных меток
+// test task 
+
+An application for determining geolocation and adding labels on the map and the ability to view saved labels
 
 MapKit 
 CoreLocation
